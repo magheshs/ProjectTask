@@ -1,0 +1,8 @@
+<suite name="suite">
+	<test name="test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.mag.workout.ProjectTask.test.SearchResultTest" />
+		</classes>
+	</test>
+</suite>
